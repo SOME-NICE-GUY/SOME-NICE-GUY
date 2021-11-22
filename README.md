@@ -2,6 +2,7 @@
 - 👀 I’m interested in python, c++, computers and technologies in general
 - 🌱 I’m currently learning python, c++ and english ;)
 - I live in Iran, Isfahan
+- 14 yo, ninth grader
 
 <!---
 SOME-NICE-GUY/SOME-NICE-GUY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
